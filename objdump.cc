@@ -1,4 +1,4 @@
-// Copyright (C) 2021-2023, HardenedVault Limited (https://hardenedvault.net)
+// Copyright (C) 2021-2024, HardenedVault (https://hardenedvault.net)
 
 #include <fstream>
 #include <iostream>
